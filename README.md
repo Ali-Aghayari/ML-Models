@@ -1,3 +1,3 @@
 # ML-Models
-#### Machine learning - Spring 2023
+#### Machine learning - Fall 2023
 #### Implementation of basic ML models
