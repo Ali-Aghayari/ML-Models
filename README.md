@@ -1,6 +1,6 @@
 # **Machine Learning Models Repository**
 
-This repository contains implementations of various machine learning algorithms, demonstrated through hands-on Jupyter notebooks. Each notebook covers a specific algorithm or concept, providing detailed explanations, code implementations (from scratch and using libraries), and evaluations on real-world datasets.
+This repository contains implementations of various machine learning algorithms, demonstrated through hands-on Jupyter notebooks. Each notebook covers a specific algorithm or concept, providing detailed explanations, code implementations, and evaluations on real-world datasets.
 
 ---
 
@@ -39,7 +39,6 @@ This repository contains implementations of various machine learning algorithms,
 ---
 
 ## **Key Features**
-- **Hands-On Implementations**: Each notebook provides step-by-step explanations of machine learning algorithms.
 - **Custom Implementations**: Includes from-scratch implementations to help understand the underlying mechanics.
 - **Evaluation Metrics**: Detailed evaluation of models using metrics like precision, recall, F1-score, and R-squared.
 - **Real-World Applications**: Demonstrates the use of machine learning on real-world datasets.
